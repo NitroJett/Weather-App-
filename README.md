@@ -1,2 +1,3 @@
 # Weather-App-
-Using react  weather (API)
+Using Weather (API)
+
